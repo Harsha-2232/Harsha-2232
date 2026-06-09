@@ -65,14 +65,7 @@
 | [🎬 IMDB Movie Review Sentiment](https://github.com/Harsha-2232/IMDB-Movie-Review---Sentiment-Analysis-) | Classifies movie reviews as positive/negative | Jupyter Notebook |
 | [📉 Customer Churn ML](https://github.com/Harsha-2232/customer-churn-ml) | Predicts customer churn using classification models | Jupyter Notebook |
 
----
 
-### 📈 GitHub Stats
-
-![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsha-2232&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-2232&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ### 📬 Connect With Me
 
