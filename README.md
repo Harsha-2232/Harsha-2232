@@ -9,8 +9,8 @@
 ### 🧠 About Me
 
 - 🏙️ Based in **Trivandrum, India**
-- 💼 Currently working as a **Data Scientist**
-- 🚀 Currently exploring **Machine Learning & Deep Learning**
+- 💼 Currently working as a **GenAI Intern** at **BlackBox Learning**
+- 🚀 Currently exploring **Generative AI & Agentic AI**
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/harsha-s-7b2720285)
 
 ---
