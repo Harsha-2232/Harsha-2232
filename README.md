@@ -58,6 +58,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [🤖 Vectorless RAG](https://github.com/Harsha-2232/vectorless-rag) | PDF Q&A system using full-context LLM inference — no embeddings or vector DB | Python, LangChain, Groq, Streamlit |
 | [🤖 AI Job Recommendation](https://github.com/Harsha-2232/ai-job-recommendation) | Recommends jobs based on user skills and profile using AI | Python, LLMs, RAG |
 | [🔍 AI Job Aggregator](https://github.com/Harsha-2232/ai-job-aggregator) | Aggregates job listings from multiple platforms using AI filtering | Python, Web Scraping, LLMs |
 | [💬 AI Chatbot](https://github.com/Harsha-2232/chatbot) | Conversational AI chatbot powered by LLMs and prompt engineering | LangChain, Groq, Ollama |
