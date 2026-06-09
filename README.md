@@ -58,13 +58,14 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🏠 House Price Prediction Web App](https://github.com/Harsha-2232/House-price-prediction-web-App) | Predicts house prices using ML with a web interface | HTML, Python |
-| [🧠 Brain Tumor Classification](https://github.com/Harsha-2232/Brain-Tumor-Classification) | Deep learning model to classify brain tumors from MRI images | Jupyter Notebook |
-| [🛰️ Satellite Prediction](https://github.com/Harsha-2232/Satellite-prediction) | Predictive model for satellite data analysis | Jupyter Notebook |
-| [🐦 Twitter Sentiment Analysis](https://github.com/Harsha-2232/Twitter-Sentiment-Analysis-) | NLP-based sentiment classifier for tweets | Jupyter Notebook |
-| [🎬 IMDB Movie Review Sentiment](https://github.com/Harsha-2232/IMDB-Movie-Review---Sentiment-Analysis-) | Classifies movie reviews as positive/negative | Jupyter Notebook |
-| [📉 Customer Churn ML](https://github.com/Harsha-2232/customer-churn-ml) | Predicts customer churn using classification models | Jupyter Notebook |
-
+| [🤖 AI Job Recommendation](https://github.com/Harsha-2232/ai-job-recommendation) | Recommends jobs based on user skills and profile using AI | Python, LLMs, RAG |
+| [🔍 AI Job Aggregator](https://github.com/Harsha-2232/ai-job-aggregator) | Aggregates job listings from multiple platforms using AI filtering | Python, Web Scraping, LLMs |
+| [💬 AI Chatbot](https://github.com/Harsha-2232/chatbot) | Conversational AI chatbot powered by LLMs and prompt engineering | LangChain, Groq, Ollama |
+| [🛒 Flipkart Web Scraper](https://github.com/Harsha-2232/flipkart-web-scrapper) | Scrapes product data, prices and reviews from Flipkart | Python, BeautifulSoup, Pandas |
+| [🏠 House Price Prediction Web App](https://github.com/Harsha-2232/House-price-prediction-web-App) | Predicts house prices using ML with a web interface | HTML, Python, Scikit-learn |
+| [🧠 Brain Tumor Classification](https://github.com/Harsha-2232/Brain-Tumor-Classification) | Deep learning model to classify brain tumors from MRI images | TensorFlow, Jupyter |
+| [🐦 Twitter Sentiment Analysis](https://github.com/Harsha-2232/Twitter-Sentiment-Analysis-) | NLP-based sentiment classifier for tweets | NLP, Jupyter |
+| [📉 Customer Churn ML](https://github.com/Harsha-2232/customer-churn-ml) | Predicts customer churn using classification models | Scikit-learn, Jupyter |
 
 
 ### 📬 Connect With Me
